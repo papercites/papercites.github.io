@@ -1,0 +1,40 @@
+# INFOCOM
+- title: 'S-Store: A Scalable Data Store towards Permissioned Blockchain Sharding.'
+  authors: Xiaodong Qi, Zhihao Chen, Zhao Zhang, Cheqing Jin, Aoying Zhou
+  conf: INFOCOM
+  year: 2022
+  url: https://dl.acm.org/doi/10.14778/3476311.3476348
+  tag: 'performance'
+  subtag: ['sharding']
+# VLDB
+- title: 'SChain: A Scalable Consortium Blockchain Exploiting Intra- and Inter-Block Concurrency.'
+  authors: Zhihao Chen, Haizhen Zhuo, Quanqing Xu, Xiaodong Qi, Chengyu Zhu, Zhao Zhang, Cheqing Jin, Aoying Zhou, Ying Yan, Hui Zhang
+  conf: VLDB
+  year: 2021
+  url: https://dl.acm.org/doi/10.14778/3476311.3476348
+  tag: 'performance'
+  subtag: ['execution']
+# SIGMOD
+- title: 'A Byzantine Fault Tolerant Storage for Permissioned Blockchain.'
+  authors: Xiaodong Qi, Zhihao Chen, Zhao Zhang, Cheqing Jin, Aoying Zhou, Haizhen Zhuo, Quangqing Xu
+  conf: SIGMOD
+  year: 2021
+  url: https://dl.acm.org/doi/10.1145/3448016.3452744
+  tag: 'performance'
+  subtag: ['storage']
+
+- title: 'SharPer: Sharding Permissioned Blockchains Over Network Clusters.'
+  authors: Mohammad Javad Amiri, Divyakant Agrawal, Amr El Abbadi
+  conf: SIGMOD
+  year: 2021
+  url: https://dl.acm.org/doi/10.1145/3448016.3452807
+  tag: 'performance'
+  subtag: ['sharding']
+# ATC
+- title: 'RainBlock: Faster Transaction Processing in Public Blockchains.'
+  authors: Soujanya Ponnapalli, Aashaka Shah, Souvik Banerjee, Dahlia Malkhi, Amy Tai, Vijay Chidambaram, Michael Wei
+  conf: ATC
+  year: 2021
+  url: https://www.usenix.org/conference/atc21/presentation/ponnapalli
+  tag: 'performance'
+  subtag: ['storage']
